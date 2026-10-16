@@ -28,6 +28,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe%20Coding-Expert-9B59B6?style=for-the-badge&logo=spark&logoColor=white" alt="Vibe Coding" />
+</p>
+
 ## 📊 GitHub 数据
 
 <div align="center">
